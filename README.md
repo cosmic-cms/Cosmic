@@ -15,3 +15,4 @@ We are working on a new tutorial.
 
 - Clone this repo to your local machine using `https://github.com/cosmic-cms/Cosmic.git`
 
+This release was first created by devraizer
