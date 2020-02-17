@@ -1,0 +1,11 @@
+public/tmp/*
+public/library/*
+public/uploads/*
+App/Config.php
+.htaccess
+
+# PHPStorm
+.idea
+vendor/*
+composer.phar
+composer.lock
